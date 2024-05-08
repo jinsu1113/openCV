@@ -1,0 +1,4 @@
+1.visual studio를 설치한다. 
+2.https://opencv.org/releases/ openCV사이트에 들어가서 window용 opencv를 C에 설치한다.
+3.visual studio에 들어가서 새프로젝트를 하나만들고 속성값을 설정한다.
+4.C:\opencv\sources\samples\cpp 에있는 샘플하나를 가져와 실행시킨다.
